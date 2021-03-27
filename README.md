@@ -3,6 +3,6 @@ Play drums online with this web app developed using vanilla JavaScript and DOM (
 
 Includes Event Listeners, Higher order functions, Callbacks, animation using timeout, objects and methods.
 
-Hosted on https://nishi-p.github.io/Drum-Kit/.
+Hosted on https://nishi-p.github.io/Drums/
 
 Images and sounds are not my own.

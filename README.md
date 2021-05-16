@@ -1,8 +1,12 @@
 # Drum-Kit
-Play drums online with this web app developed using vanilla JavaScript and DOM (Document Object Model) manipulation.
+### Task:
+Drums Web Application.
 
-Includes Event Listeners, Higher order functions, Callbacks, animation using timeout, objects and methods.
+### Learning: 
+Vanilla JavaScript and DOM (Document Object Model) manipulation. Includes Event Listeners, Higher order functions, Callbacks, animation using timeout, objects and methods.
 
-Hosted on https://nishi-p.github.io/Drums/
+### Working:
+Play drums online with this web application hosted on https://nishi-p.github.io/Drums/
 
+Note:  
 Images and sounds are not my own.
